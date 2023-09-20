@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+format: html
+---
+
+
+
+```{python}
+
+print("David is stupid")
+
+```
