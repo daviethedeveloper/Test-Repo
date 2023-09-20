@@ -7,6 +7,6 @@ format: html
 
 ```{python}
 
-print("David is stupid")
+print("David is not stupid")
 
 ```
